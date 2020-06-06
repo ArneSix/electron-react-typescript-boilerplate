@@ -1,7 +1,7 @@
 {
-  "name": "zephy",
-  "productName": "zephy",
-  "version": "1.0.0",
+  "name": "myproject",
+  "productName": "myproject",
+  "version": "0.0.0",
   "description": "My Electron application description",
   "main": "./.webpack/main",
   "scripts": {
@@ -13,8 +13,8 @@
   },
   "keywords": [],
   "author": {
-    "name": "ArneSix",
-    "email": "six.arne@gmail.com"
+    "name": "AUTHORNAME",
+    "email": "AUTHOREMAIL"
   },
   "license": "MIT",
   "config": {
